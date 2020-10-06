@@ -1,0 +1,56 @@
+html {
+    font-family: 'Roboto', 'Lora', serif;
+    background-color: #9FBCCC;
+    color: darkslategray;
+    display: flex;
+    justify-content: center;
+    
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.headshot {
+    padding: 20px;
+ 
+}
+
+.name {
+    color: cadetblue;
+    text-align: center;
+
+}
+
+
+.intro {
+    color: darksalmon;
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 80%;
+
+}
+
+.body-sections {
+    margin: 10px;
+    padding: 5px;
+    border: 2px dotted;
+}
+.titles {
+    text-align: center;
+    margin: 20px;
+}
+
+.linkedinlogo {
+    width: 32px;
+}
+
+ 
